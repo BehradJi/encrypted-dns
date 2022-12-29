@@ -18,7 +18,6 @@
 				</array>
 				<key>ServerURL</key>
 				<string>https://1.1.1.1/dns-query</string>
-				<string>https://1.0.0.1/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Encrypted DNS over HTTPS</string>
